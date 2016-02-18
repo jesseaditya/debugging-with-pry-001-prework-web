@@ -1,4 +1,3 @@
-def plus_two(num)
-	num + 2
-	num
+def meal_choice(choice = "meat")
+  choice
 end
